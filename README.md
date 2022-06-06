@@ -1,4 +1,5 @@
 # A03
+
 **Branch**: A branch is essentially a unique set of code changes with a unique name.  
 **Clone**: Copy the repository from GitHub to your local machine.
 **Commit**: Revision or an individual change to a file. 
