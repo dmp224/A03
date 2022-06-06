@@ -11,5 +11,5 @@
 **Push**: Transfer commits from your local repository to a remote repository.  \
 **Pull**: Lets you tell others about changes you have pushed to a branch in a repository on GitHub.  \
 **Remote**: A common repository that all team members use to exchange their changes.   \
-**Repository**:  It contains all of your project’s file and each files revision history.  \
+**Repository**:  It contains all of your project’s file and each files revision history.  
 
